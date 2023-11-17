@@ -1,0 +1,445 @@
+<mxfile host="app.diagrams.net" modified="2023-11-17T07:36:43.700Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="cXimBx9_BBlWnjxwNcGP" version="22.1.2" type="google">
+  <diagram name="Seite-1" id="ktpaxYDHcYY08rmKg4kP">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9TAvWXg9h8m6ExEYzAHQ-1" value="&lt;b&gt;Präsident&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;(Seit 2000 Putin)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="-30" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9TAvWXg9h8m6ExEYzAHQ-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9TAvWXg9h8m6ExEYzAHQ-2" target="9TAvWXg9h8m6ExEYzAHQ-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="530" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="830" y="620" />
+              <mxPoint x="830" y="427" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9TAvWXg9h8m6ExEYzAHQ-2" value="&lt;b&gt;Wahlberechtigte Bevölkerung &lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;(108 Millionen Bürger und über 1,9 Millionen im Ausland lebende Russen)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="590" width="1210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9TAvWXg9h8m6ExEYzAHQ-14" value="&lt;font color=&quot;#878787&quot;&gt;&lt;b&gt;Vizepräsident&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;(Abgeschafft 1993)&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#787878;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="-120" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9TAvWXg9h8m6ExEYzAHQ-24" value="Förderationsversammlung" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="200" width="210" height="295" as="geometry" />
+        </mxCell>
+        <mxCell id="9TAvWXg9h8m6ExEYzAHQ-26" value="Förderationsrat" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="9TAvWXg9h8m6ExEYzAHQ-24">
+          <mxGeometry y="22.5" width="210" height="137.5" as="geometry" />
+        </mxCell>
+        <mxCell id="9TAvWXg9h8m6ExEYzAHQ-35" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;170 Abgeordnete aus den&lt;br&gt;85 Förderationssubjekten:&lt;br&gt;&lt;br&gt;Je 1 Mitglied der Executive und Legislative&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9TAvWXg9h8m6ExEYzAHQ-26">
+          <mxGeometry x="40" y="27.5" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9TAvWXg9h8m6ExEYzAHQ-37" value="Staatsduma" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="9TAvWXg9h8m6ExEYzAHQ-24">
+          <mxGeometry y="160" width="210" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="9TAvWXg9h8m6ExEYzAHQ-38" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;450 Sitze&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9TAvWXg9h8m6ExEYzAHQ-37">
+          <mxGeometry x="40" y="27.5" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9TAvWXg9h8m6ExEYzAHQ-49" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.001;entryY=0.421;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="9TAvWXg9h8m6ExEYzAHQ-24" source="9TAvWXg9h8m6ExEYzAHQ-37" target="9TAvWXg9h8m6ExEYzAHQ-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-90" y="250" as="sourcePoint" />
+            <mxPoint x="-80" y="90" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-60" y="228" />
+              <mxPoint x="-60" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9TAvWXg9h8m6ExEYzAHQ-53" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Verabschieden &lt;br&gt;Gesetze&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9TAvWXg9h8m6ExEYzAHQ-49">
+          <mxGeometry x="-0.4084" relative="1" as="geometry">
+            <mxPoint y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9TAvWXg9h8m6ExEYzAHQ-54" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Bestätigung durch&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9TAvWXg9h8m6ExEYzAHQ-49">
+          <mxGeometry x="0.3621" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9TAvWXg9h8m6ExEYzAHQ-42" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Grabenwahlsystem&lt;br&gt;&lt;/font&gt;Legislatur von 5 Jahren&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="840" y="500" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9TAvWXg9h8m6ExEYzAHQ-43" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Förderationssubjekte&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;83 territoriale, mit politischer und administrativer Autonomie ausgestattete&amp;nbsp;&amp;nbsp;Verwaltungseinheiten&lt;/font&gt;&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.1;size=30;position=0.18;base=30;" vertex="1" parent="1">
+          <mxGeometry x="900" y="257" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9TAvWXg9h8m6ExEYzAHQ-47" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=35;exitPerimeter=0;" edge="1" parent="1" source="9TAvWXg9h8m6ExEYzAHQ-43" target="9TAvWXg9h8m6ExEYzAHQ-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="900" y="291" as="sourcePoint" />
+            <mxPoint x="820" y="315" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9TAvWXg9h8m6ExEYzAHQ-55" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="9TAvWXg9h8m6ExEYzAHQ-26" target="9TAvWXg9h8m6ExEYzAHQ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="270" as="sourcePoint" />
+            <mxPoint x="600" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="860" y="257" />
+              <mxPoint x="860" y="5" />
+              <mxPoint x="540" y="5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9TAvWXg9h8m6ExEYzAHQ-58" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Gesetzesvorschlag muss&lt;br&gt;unterzeichnet werden&lt;br&gt;für Gültigkeit&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9TAvWXg9h8m6ExEYzAHQ-55">
+          <mxGeometry x="0.0424" y="1" relative="1" as="geometry">
+            <mxPoint x="168" y="94" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9TAvWXg9h8m6ExEYzAHQ-60" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="280" as="sourcePoint" />
+            <mxPoint x="860" y="170" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="540" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9TAvWXg9h8m6ExEYzAHQ-62" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Oder 2/3 Mehrheit &lt;br&gt;in Duma&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9TAvWXg9h8m6ExEYzAHQ-60">
+          <mxGeometry x="-0.7341" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9TAvWXg9h8m6ExEYzAHQ-64" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Das Vetorecht des Präsidenten kann nur durch eine 2/3 Mehrheit in beiden Förderationsversammlungen umgangen werden&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=40;position=0.31;position2=0.19;base=20;" vertex="1" parent="1">
+          <mxGeometry x="900" y="-50" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="9TAvWXg9h8m6ExEYzAHQ-68" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=35;entryPerimeter=0;" edge="1" parent="1" target="9TAvWXg9h8m6ExEYzAHQ-64">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="860" y="5" as="sourcePoint" />
+            <mxPoint x="880" y="-10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9TAvWXg9h8m6ExEYzAHQ-69" value="&lt;b&gt;Premierminister&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;(Seit 2020 Michail Mischustin)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="120" width="155" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9TAvWXg9h8m6ExEYzAHQ-72" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9TAvWXg9h8m6ExEYzAHQ-37" target="9TAvWXg9h8m6ExEYzAHQ-69">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="500" as="sourcePoint" />
+            <mxPoint x="300" y="80" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="460" />
+              <mxPoint x="440" y="280" />
+              <mxPoint x="440" y="155" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9TAvWXg9h8m6ExEYzAHQ-73" value="Bestätigt&lt;br&gt;durch" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9TAvWXg9h8m6ExEYzAHQ-72">
+          <mxGeometry x="0.0541" y="1" relative="1" as="geometry">
+            <mxPoint y="16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9TAvWXg9h8m6ExEYzAHQ-84" value="Leitet Kabinett" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9TAvWXg9h8m6ExEYzAHQ-72">
+          <mxGeometry x="0.3048" y="1" relative="1" as="geometry">
+            <mxPoint y="11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9TAvWXg9h8m6ExEYzAHQ-75" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;- Kann Duma auflösen und Neuwahlen anordnen&lt;br&gt;- Schränkt systematisch Meinungsfreiheit ein&lt;br&gt;- Bürger dürfen das Staatsgebiet nicht in Frage stellen&lt;br&gt;- Annektion der Krim also nicht kritisieren &quot;Schutz der historischen Wahrheit&lt;br&gt;- Scheidungsverbot&lt;br&gt;- Reformen zum Erhalt und Ausbau der Macht&lt;br&gt;&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=30;position=0.38;position2=0.3;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-180" width="280" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="9TAvWXg9h8m6ExEYzAHQ-78" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9TAvWXg9h8m6ExEYzAHQ-2" target="9TAvWXg9h8m6ExEYzAHQ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-380" as="sourcePoint" />
+            <mxPoint x="-40" y="90" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-640" y="620" />
+              <mxPoint x="-640" y="5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9TAvWXg9h8m6ExEYzAHQ-82" value="Anfangs auf 4 Jahre&lt;br&gt;Mittlerweile auf 6 Jahre" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9TAvWXg9h8m6ExEYzAHQ-78">
+          <mxGeometry x="-0.7291" y="-3" relative="1" as="geometry">
+            <mxPoint y="-50" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9TAvWXg9h8m6ExEYzAHQ-83" value="Zuerst begrenz auf &lt;br&gt;2 Legislaturen,.&lt;br style=&quot;border-color: var(--border-color); font-size: 10px; background-color: rgb(251, 251, 251);&quot;&gt;&lt;span style=&quot;font-size: 10px; background-color: rgb(251, 251, 251);&quot;&gt;Mittlerweile aufgehoben&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9TAvWXg9h8m6ExEYzAHQ-78">
+          <mxGeometry x="-0.149" y="-3" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9TAvWXg9h8m6ExEYzAHQ-80" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="9TAvWXg9h8m6ExEYzAHQ-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="25" y="10" as="sourcePoint" />
+            <mxPoint x="40" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9TAvWXg9h8m6ExEYzAHQ-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9TAvWXg9h8m6ExEYzAHQ-85" target="9TAvWXg9h8m6ExEYzAHQ-95">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9TAvWXg9h8m6ExEYzAHQ-99" value="Übergeordnet" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9TAvWXg9h8m6ExEYzAHQ-98">
+          <mxGeometry x="-0.3535" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" y="11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9TAvWXg9h8m6ExEYzAHQ-85" value="&lt;b&gt;&quot;Regierung der russischen Förderation&quot;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="240" width="155" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9TAvWXg9h8m6ExEYzAHQ-86" value="&lt;b&gt;Vize-Premier&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;(Seit 2020 &lt;br&gt;Andrei Remowitsch Beloussow)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="120" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9TAvWXg9h8m6ExEYzAHQ-87" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9TAvWXg9h8m6ExEYzAHQ-69" target="9TAvWXg9h8m6ExEYzAHQ-86">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="150" as="sourcePoint" />
+            <mxPoint x="70" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9TAvWXg9h8m6ExEYzAHQ-89" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Schlägt&lt;br&gt;Kandidaten&lt;br&gt;vor&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9TAvWXg9h8m6ExEYzAHQ-87">
+          <mxGeometry x="0.027" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9TAvWXg9h8m6ExEYzAHQ-90" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9TAvWXg9h8m6ExEYzAHQ-1" target="9TAvWXg9h8m6ExEYzAHQ-86">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="110" as="sourcePoint" />
+            <mxPoint x="80" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9TAvWXg9h8m6ExEYzAHQ-92" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Bestätigt &lt;br&gt;Kandidaten&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9TAvWXg9h8m6ExEYzAHQ-90">
+          <mxGeometry x="-0.0575" y="-3" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9TAvWXg9h8m6ExEYzAHQ-93" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.516;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="9TAvWXg9h8m6ExEYzAHQ-85">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="190" as="sourcePoint" />
+            <mxPoint x="198" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9TAvWXg9h8m6ExEYzAHQ-94" value="Vorsitz" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9TAvWXg9h8m6ExEYzAHQ-93">
+          <mxGeometry x="-0.3762" relative="1" as="geometry">
+            <mxPoint y="8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9TAvWXg9h8m6ExEYzAHQ-95" value="&lt;b&gt;Ministerien und Agenturen&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="370" width="160" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="9TAvWXg9h8m6ExEYzAHQ-100" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.712;entryY=1.019;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.687;exitY=-0.027;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="9TAvWXg9h8m6ExEYzAHQ-95" target="9TAvWXg9h8m6ExEYzAHQ-85">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="350" as="sourcePoint" />
+            <mxPoint x="280" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9TAvWXg9h8m6ExEYzAHQ-101" value="Minister" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9TAvWXg9h8m6ExEYzAHQ-100">
+          <mxGeometry x="-0.0281" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9TAvWXg9h8m6ExEYzAHQ-102" value="&lt;b&gt;Innen- Außen- und Verteidungsministerium&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="50" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9TAvWXg9h8m6ExEYzAHQ-103" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9TAvWXg9h8m6ExEYzAHQ-1" target="9TAvWXg9h8m6ExEYzAHQ-102">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="80" as="sourcePoint" />
+            <mxPoint x="330" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9TAvWXg9h8m6ExEYzAHQ-104" value="Sitzt vor" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9TAvWXg9h8m6ExEYzAHQ-103">
+          <mxGeometry x="-0.0883" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9TAvWXg9h8m6ExEYzAHQ-105" value="&lt;ul style=&quot;list-style-image: url(&amp;quot;/w/skins/Vector/resources/common/images/bullet-icon.svg?d4515&amp;quot;); margin: 0.3em 0px 0px 1.6em; padding: 0px; color: rgb(32, 33, 34); font-family: sans-serif; font-size: 5px; background-color: rgb(255, 255, 255); animation-delay: -0.01ms !important; animation-duration: 0.01ms !important; animation-iteration-count: 1 !important; scroll-behavior: auto !important; transition-duration: 0ms !important;&quot;&gt;&lt;li style=&quot;animation-delay: -0.01ms !important; animation-duration: 0.01ms !important; animation-iteration-count: 1 !important; scroll-behavior: auto !important; transition-duration: 0ms !important; margin-bottom: 0.1em;&quot;&gt;Erarbeitung des Staatshaushalts, dessen Einreichung bei der Duma zur Bestätigung sowie Rechenschaftslegung vor der Duma hinsichtlich der Verwendung des Staatshaushalts;&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;margin-bottom: 0.1em; animation-delay: -0.01ms !important; animation-duration: 0.01ms !important; animation-iteration-count: 1 !important; scroll-behavior: auto !important; transition-duration: 0ms !important;&quot;&gt;Durchführung der föderationsweit einheitlichen Finanz-, Kredit- und Geldpolitik;&lt;/li&gt;&lt;li style=&quot;animation-delay: -0.01ms !important; animation-duration: 0.01ms !important; animation-iteration-count: 1 !important; scroll-behavior: auto !important; transition-duration: 0ms !important; margin-bottom: 0.1em;&quot;&gt;Durchführung der einheitlichen staatlichen Politik im Bereich der Kultur, der Wissenschaft, der Bildung, des Gesundheitswesens, der sozialen Versorgung und des Umweltschutzes;&lt;/li&gt;&lt;li style=&quot;animation-delay: -0.01ms !important; animation-duration: 0.01ms !important; animation-iteration-count: 1 !important; scroll-behavior: auto !important; transition-duration: 0ms !important; margin-bottom: 0.1em;&quot;&gt;Verwaltung des Staatseigentums;&lt;/li&gt;&lt;li style=&quot;animation-delay: -0.01ms !important; animation-duration: 0.01ms !important; animation-iteration-count: 1 !important; scroll-behavior: auto !important; transition-duration: 0ms !important; margin-bottom: 0.1em;&quot;&gt;Maßnahmen zur Durchsetzung des geltenden Rechts, Gewährung der Rechte und Freiheiten der Bürger, Überwachung des Eigentums und der öffentlichen Ordnung, Bekämpfung der Kriminalität;&lt;/li&gt;&lt;li style=&quot;animation-delay: -0.01ms !important; animation-duration: 0.01ms !important; animation-iteration-count: 1 !important; scroll-behavior: auto !important; transition-duration: 0ms !important; margin-bottom: 0.1em;&quot;&gt;Ausübung sonstiger Vollmachten gemäß Verfassung der Russischen Föderation, föderaler Gesetze und präsidentieller Erlasse.&lt;/li&gt;&lt;/ul&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;align=left;position2=0.84;base=30;size=30;position=0.64;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="240" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="daYzVwTKridwR9G9A9CA-1" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;Vergleich Deutschland&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Die Förderationsversammlung ist vergleichbar mit dem Bundesrat und Bundestag in Deutschland. &lt;br&gt;&lt;br&gt;Der Förderationsrat, auch als Oberhaus bezeichnet wird am Ehesten mit dem Bundesrat verglichen.&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Die Staatsduma, kurz Duma oder Unterhaus, ist mit dem Bundestag vergleichbar. Zum Beispiel sind beide für das Verabschieden von Gesetzen Verantwortlich&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=30;position=0.33;position2=0.17;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="352.5" width="370" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="daYzVwTKridwR9G9A9CA-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=60;exitPerimeter=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="daYzVwTKridwR9G9A9CA-1" target="9TAvWXg9h8m6ExEYzAHQ-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="860" y="420" as="sourcePoint" />
+            <mxPoint x="910" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="daYzVwTKridwR9G9A9CA-3" value="&lt;b&gt;Koordinierungsrat&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;(Einberufen für Ukraineinvasion)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="50" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="daYzVwTKridwR9G9A9CA-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9TAvWXg9h8m6ExEYzAHQ-102" target="daYzVwTKridwR9G9A9CA-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="170" as="sourcePoint" />
+            <mxPoint x="530" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="daYzVwTKridwR9G9A9CA-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="daYzVwTKridwR9G9A9CA-3" target="9TAvWXg9h8m6ExEYzAHQ-85">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="160" as="sourcePoint" />
+            <mxPoint x="570" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="daYzVwTKridwR9G9A9CA-6" value="Ersetzt&lt;br&gt;Aufgaben" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="daYzVwTKridwR9G9A9CA-5">
+          <mxGeometry x="0.267" y="3" relative="1" as="geometry">
+            <mxPoint x="-34" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="daYzVwTKridwR9G9A9CA-7" value="Obere Judikative" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-530" y="50" width="340" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="daYzVwTKridwR9G9A9CA-8" value="Verfassungsgericht" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="daYzVwTKridwR9G9A9CA-7">
+          <mxGeometry y="20" width="170" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="daYzVwTKridwR9G9A9CA-13" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Überprüft föderale Gesetze &lt;br&gt;und andere Rechtsnormen &lt;br&gt;auf ihre Vereinbarkeit mit &lt;br&gt;der Verfassung der &lt;br&gt;Russischen Föderation&lt;br&gt;&lt;br&gt;Sitz in Sankt Petersburg&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="daYzVwTKridwR9G9A9CA-8">
+          <mxGeometry x="15" y="30" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="daYzVwTKridwR9G9A9CA-9" value="Oberer Gerichtshof" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="daYzVwTKridwR9G9A9CA-7">
+          <mxGeometry x="170" y="20" width="170" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="daYzVwTKridwR9G9A9CA-15" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Höchstes Gericht&lt;br&gt;&lt;br&gt;Beaufsichtigt untergestellte&lt;br&gt;Einrichtungen der Judikative&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="daYzVwTKridwR9G9A9CA-9">
+          <mxGeometry x="5" y="50" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="daYzVwTKridwR9G9A9CA-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.996;entryY=0.076;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="9TAvWXg9h8m6ExEYzAHQ-1" target="daYzVwTKridwR9G9A9CA-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-90" y="90" as="sourcePoint" />
+            <mxPoint x="-40" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="daYzVwTKridwR9G9A9CA-17" value="Schlägt&lt;br&gt;Richter vor" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="daYzVwTKridwR9G9A9CA-16">
+          <mxGeometry x="0.2965" y="3" relative="1" as="geometry">
+            <mxPoint x="35" y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="daYzVwTKridwR9G9A9CA-18" value="&lt;b&gt;Europäischen Gerichtshof für Menschenrechte&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;(Teilnahme verpflichtet durch Europarat)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-456.5" y="-220" width="193" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="daYzVwTKridwR9G9A9CA-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="daYzVwTKridwR9G9A9CA-7" target="daYzVwTKridwR9G9A9CA-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-360" y="40" as="sourcePoint" />
+            <mxPoint x="-310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="daYzVwTKridwR9G9A9CA-20" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Völkerrechtlicher Vertrag, der den Schutz grundlegender Menschenrechte und Freiheiten in Europa gewährleistet und von den Mitgliedstaaten des Europarats unterzeichnet wurde.&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.87;base=55;size=30;position=0.61;" vertex="1" parent="1">
+          <mxGeometry x="-710" y="-220" width="230" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="daYzVwTKridwR9G9A9CA-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="daYzVwTKridwR9G9A9CA-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-640" y="580" as="sourcePoint" />
+            <mxPoint x="-470" y="-120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-700" y="580" />
+              <mxPoint x="-750" y="580" />
+              <mxPoint x="-750" y="-60" />
+              <mxPoint x="-520" y="-60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="daYzVwTKridwR9G9A9CA-24" value="Bürger können&amp;nbsp;&lt;br&gt;sich direkt&lt;br&gt;an EGMR wenden" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="daYzVwTKridwR9G9A9CA-21">
+          <mxGeometry x="-0.2223" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="daYzVwTKridwR9G9A9CA-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9TAvWXg9h8m6ExEYzAHQ-1" target="daYzVwTKridwR9G9A9CA-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-210" y="-30" as="sourcePoint" />
+            <mxPoint x="-190" y="-40" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-150" y="-30" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="daYzVwTKridwR9G9A9CA-26" value="Umgeht und&lt;br&gt;ignoriert&lt;br&gt;Urteile" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="daYzVwTKridwR9G9A9CA-25">
+          <mxGeometry x="0.5544" y="3" relative="1" as="geometry">
+            <mxPoint x="6" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="daYzVwTKridwR9G9A9CA-27" value="&lt;b&gt;Militärgericht&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-620" y="316" width="106.5" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="daYzVwTKridwR9G9A9CA-28" value="&lt;b&gt;Kassationsgerichte&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-425" y="256" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="daYzVwTKridwR9G9A9CA-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="daYzVwTKridwR9G9A9CA-28" target="daYzVwTKridwR9G9A9CA-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-360" y="250" as="sourcePoint" />
+            <mxPoint x="-320" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="daYzVwTKridwR9G9A9CA-30" value="Geprüft von" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="daYzVwTKridwR9G9A9CA-29">
+          <mxGeometry x="0.0833" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="daYzVwTKridwR9G9A9CA-31" value="&lt;b&gt;Appellationsgerichte&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-425" y="357" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="daYzVwTKridwR9G9A9CA-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="daYzVwTKridwR9G9A9CA-31" target="daYzVwTKridwR9G9A9CA-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-330" y="360" as="sourcePoint" />
+            <mxPoint x="-280" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="daYzVwTKridwR9G9A9CA-38" value="Geprüft von" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="daYzVwTKridwR9G9A9CA-32">
+          <mxGeometry x="-0.1626" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="daYzVwTKridwR9G9A9CA-34" value="&lt;b&gt;Rayonny Sud&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;(Lokale Ebene)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-425" y="460" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="daYzVwTKridwR9G9A9CA-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="daYzVwTKridwR9G9A9CA-34" target="daYzVwTKridwR9G9A9CA-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-370" y="450" as="sourcePoint" />
+            <mxPoint x="-320" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="daYzVwTKridwR9G9A9CA-36" value="Berufungsinstanzen " style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="daYzVwTKridwR9G9A9CA-35">
+          <mxGeometry x="-0.3333" y="3" relative="1" as="geometry">
+            <mxPoint x="3" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="daYzVwTKridwR9G9A9CA-39" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="daYzVwTKridwR9G9A9CA-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-360" y="590" as="sourcePoint" />
+            <mxPoint x="-200" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="daYzVwTKridwR9G9A9CA-40" value="Nach juristischer Prüfung und&lt;br&gt;Bewerbung&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="daYzVwTKridwR9G9A9CA-39">
+          <mxGeometry x="0.0851" y="-2" relative="1" as="geometry">
+            <mxPoint x="-2" y="8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="daYzVwTKridwR9G9A9CA-41" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.473;exitY=1.017;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="9TAvWXg9h8m6ExEYzAHQ-1" target="9TAvWXg9h8m6ExEYzAHQ-69">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="100" as="sourcePoint" />
+            <mxPoint x="220" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="daYzVwTKridwR9G9A9CA-42" value="Schlägt vor" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="daYzVwTKridwR9G9A9CA-41">
+          <mxGeometry x="0.074" y="1" relative="1" as="geometry">
+            <mxPoint x="-1" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="daYzVwTKridwR9G9A9CA-43" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9TAvWXg9h8m6ExEYzAHQ-1" target="9TAvWXg9h8m6ExEYzAHQ-95">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="40" as="sourcePoint" />
+            <mxPoint x="310" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="310" y="120" />
+              <mxPoint x="310" y="260" />
+              <mxPoint x="310" y="404" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="daYzVwTKridwR9G9A9CA-45" value="Präsident kann&amp;nbsp;&lt;br&gt;Minister ernennen" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="daYzVwTKridwR9G9A9CA-43">
+          <mxGeometry x="0.522" y="-1" relative="1" as="geometry">
+            <mxPoint x="31" y="-22" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="daYzVwTKridwR9G9A9CA-46" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="9TAvWXg9h8m6ExEYzAHQ-95">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="590" as="sourcePoint" />
+            <mxPoint x="250" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="daYzVwTKridwR9G9A9CA-47" value="Können sich als &lt;br&gt;Untergestellte bewerben" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="daYzVwTKridwR9G9A9CA-46">
+          <mxGeometry x="0.0289" relative="1" as="geometry">
+            <mxPoint y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="daYzVwTKridwR9G9A9CA-49" value="Diagram erstellt von Luca Stolze&lt;br&gt;Quellen: &lt;a href=&quot;https://paste.gg/p/anonymous/a2af8e847c7b4a62a1dd99cf4a4ae11e&quot;&gt;Wikipedia&lt;/a&gt;, &lt;a href=&quot;https://www.bpb.de/themen/europa/russland/47954/das-justizsystem-russlands/&quot;&gt;bpb.de&lt;/a&gt;,&amp;nbsp;&lt;a href=&quot;https://osteuropa.lpb-bw.de/russland-demokratie-rechtsstaatlichkeit&quot;&gt;osteuropa.lpb-bw.de&lt;/a&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="620" width="270" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
